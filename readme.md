@@ -19,3 +19,13 @@ If you want to change the plugin or add functionalities follow the following ste
 2. Run the `npm install` command to install npm dependencies, wait sometimes to complete it.
 3. Run `npm run start` command to initialize development of React JS, Development can be done any time. Use it in the development environment.
 4. Run the `npm run build` command to finalize the development and be ready for production. The command creates production files. After building the production file move it to the production
+
+## Changelog
+
+### 1.0.0
+
+- Initial Release
+
+## License & Attribution
+
+- GPLv2 or later © [Primož Weingerl](https://weingerl.com)
